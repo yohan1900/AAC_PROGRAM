@@ -1,0 +1,19 @@
+.aacBox {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.aacBox_content {
+  border: solid 1px red;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  cursor: pointer;
+}
+
+.content_img {
+  width: 100%;
+  height: 100%;
+}
