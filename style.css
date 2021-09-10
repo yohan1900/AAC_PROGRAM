@@ -21,10 +21,10 @@
 
 .aacBox_content {
   /* border: solid 1px red; */
-  height: 100px;
+  height: 140px;
   margin: auto;
   cursor: pointer;
-  padding: 20px;
+  padding: 10px;
 }
 
 .content_img {
