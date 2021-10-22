@@ -47,3 +47,19 @@ function play12() {
   let audio = new Audio("sound/잘먹겠습니다.mp3");
   audio.play();
 }
+function play13() {
+  let audio = new Audio("sound/밥.mp3");
+  audio.play();
+}
+function play14() {
+  let audio = new Audio("sound/김치.mp3");
+  audio.play();
+}
+function play15() {
+  let audio = new Audio("sound/고기.mp3");
+  audio.play();
+}
+function play16() {
+  let audio = new Audio("sound/국.mp3");
+  audio.play();
+}
