@@ -63,3 +63,15 @@ function play16() {
   let audio = new Audio("sound/국.mp3");
   audio.play();
 }
+function play17() {
+  let audio = new Audio("sound/도라애몽.mp3");
+  audio.play();
+}
+function play18() {
+  let audio = new Audio("sound/둘리.mp3");
+  audio.play();
+}
+function play19() {
+  let audio = new Audio("sound/두다다쿵.mp3");
+  audio.play();
+}
