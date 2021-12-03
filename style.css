@@ -25,6 +25,18 @@
   margin: auto;
   cursor: pointer;
   padding: 10px;
+  position: relative;
+}
+
+.text {
+  font-size: 23px;
+  opacity: 0.5;
+  padding: 7px;
+  margin: 0px;
+  position: absolute;
+  top: 10%;
+  left:25%;
+  background-color: blanchedalmond;
 }
 
 .content_img {
